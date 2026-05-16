@@ -1,35 +1,82 @@
-# Glassdoor Jobs EDA
+# Data Analytics & Machine Learning Projects
 
-This project performs Exploratory Data Analysis (EDA) on Glassdoor job data to extract insights and trends.
+Welcome to my GitHub repository!  
+I’m **Shubham Anant Kulkarni**, a Data Analyst passionate about transforming raw data into meaningful insights through analytics, visualization, and machine learning.
 
-## Introduction
+This repository contains projects focused on:
+- Exploratory Data Analysis (EDA)
+- Behavioral Analytics
+- Machine Learning
+- SQL Analysis
+- Data Visualization
+- Dashboard Development
+- Business & Decision-Making Insights
 
-The Glassdoor Jobs EDA project aims to analyze and visualize job-related data from Glassdoor to understand job trends, salaries, and other insights.
+My projects are designed not just to visualize data, but to uncover patterns, solve analytical problems, and generate actionable insights similar to real-world business analytics workflows.
 
-## Dataset
+---
 
-The dataset used for this analysis contains information such as job titles, company ratings, salaries, location, and more. The data is collected from Glassdoor and is available in CSV format.
+# 📌 Areas of Interest
 
-3. Explore the visualizations and insights generated from the analysis.
+I am particularly interested in:
+- Data Analytics
+- Behavioral Analytics
+- Machine Learning
+- Business Intelligence
+- User Segmentation
+- Predictive Analysis
+- Dashboard Storytelling
+- Sports Analytics
+- Decision-Driven Data Analysis
 
-## Contributing
+---
 
-Contributions to improve this project are welcome! To contribute, follow these steps:
+# 📌 Technologies & Tools
 
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes and commit them (`git commit -am 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Submit a pull request.
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- SQL
+- Power BI
+- Excel
 
-Please review the [CONTRIBUTING.md](CONTRIBUTING.md) file for more details.
+---
 
-## License
+# 📌 About My Projects
 
-This project is licensed under the [MIT License](LICENSE).
+The projects in this repository focus on analyzing real-world and synthetic datasets to explore:
+- user behavior,
+- engagement patterns,
+- business insights,
+- customer segmentation,
+- predictive modeling,
+- and data-driven storytelling.
 
-## Contact
+Each project emphasizes:
+- analytical thinking,
+- visualization,
+- insight generation,
+- and practical real-world relevance.
 
-For any questions or feedback, please contact  at shubhamanant04@gmail.com
-   linkedIn : www.linkedin.com/in/shubham-anant-kulkarni-a7494a21b
+---
 
+# 📌 Current Focus
+
+Currently, I am focused on improving my skills in:
+- advanced analytics,
+- machine learning,
+- behavioral segmentation,
+- dashboard development,
+- and business-focused data storytelling.
+
+---
+
+# 📌 Contact
+
+📧 Email: shubhamanant04@gmail.com  
+
+🔗 LinkedIn:  
+www.linkedin.com/in/shubham-anant-kulkarni-a7494a21b
